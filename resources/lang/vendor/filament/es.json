@@ -1,0 +1,4 @@
+{
+    "filament::actions.modal.buttons.cancel.label": "Cancelar",
+    "filament::actions.modal.buttons.submit.label": "Guardar"
+}
